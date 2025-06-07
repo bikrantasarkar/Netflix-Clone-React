@@ -1,9 +1,12 @@
-LIVE LINK:https://netflix-clone-460fb.web.app
+[Live Link](https://netflix-clone-460fb.web.app)
 
-*Sample1:*
+[Video Demo](https://www.youtube.com/watch?v=_1sfIVAlplw)
+
+*Sample Shot 1:*
 
 ![cap1](https://raw.githubusercontent.com/BikrantaS/Netflix-Clone-React/main/sample/Capture1.JPG "cap1")
-*Sample2:*
+
+*Sample Shot 2:*
 
 ![cap1](https://raw.githubusercontent.com/BikrantaS/Netflix-Clone-React/main/sample/Capture2.JPG "cap1")
 # Getting Started with Create React App
